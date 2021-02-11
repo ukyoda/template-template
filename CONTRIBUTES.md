@@ -22,4 +22,14 @@ $ git config user.email <hoge@example.com>
 $ git config commit.template .gitmessage
 ```
 
-## 
+## その他、規約
+
+### テストコード
+
+可能な限りテストコードを書くこと
+
+### コミット、PRは細かく、簡潔に、問題がないこと
+
+コミットやPRはなるべく細かく行うこと。また、コミットする際は
+動作確認が取れた状態で行うこと
+
